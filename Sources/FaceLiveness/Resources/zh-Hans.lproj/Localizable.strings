@@ -1,0 +1,38 @@
+//
+// Copyright Amazon.com Inc. or its affiliates.
+// All Rights Reserved.
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+"amplify_ui_liveness_get_ready_page_title" = "活体检测";
+"amplify_ui_liveness_get_ready_page_description" = "您将通过面部验证过程证明您是真实的人。为了获得最高准确度，您的屏幕亮度将临时设置为100%。";
+"amplify_ui_liveness_get_ready_photosensitivity_title" = "光敏警告";
+"amplify_ui_liveness_get_ready_photosensitivity_description" = "此检测将显示彩色灯光。如果您对光敏感，请小心使用。";
+"amplify_ui_liveness_get_ready_photosensitivity_icon_a11y" = "光敏感信息";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_title" = "光敏感警告";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_description" = "极少数人在接触到彩色灯光时可能会出现癫痫发作。如果您或您的家人有癫痫病，请小心使用。";
+"amplify_ui_liveness_get_ready_steps_title" = "按照以下说明完成检测：";
+"amplify_ui_liveness_get_ready_face_not_covered" = "确保您的脸部没有被墨镜或口罩遮挡。";
+"amplify_ui_liveness_get_ready_lighting" = "移动到没有阳光直射的光线充足的地方。";
+"amplify_ui_liveness_get_ready_fit_face" = "当椭圆形出现时，在7秒内将您的脸部填满椭圆形中。";
+"amplify_ui_liveness_get_ready_begin_check" = "开始检测";
+
+"amplify_ui_liveness_challenge_recording_indicator_label" = "录制";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_countdown" = "在倒计时期间保持面部位置不变。";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_freshness" = "在彩色灯光出现时保持面部在椭圆形中。";
+"amplify_ui_liveness_challenge_instruction_move_face_back" = "向后移动";
+"amplify_ui_liveness_challenge_instruction_move_face_closer" = "靠近一些";
+"amplify_ui_liveness_challenge_instruction_move_face_in_front_of_camera" = "将脸部移动到相机前";
+"amplify_ui_liveness_challenge_instruction_multiple_faces_detected" = "确保相机前只有一个人脸";
+"amplify_ui_liveness_challenge_instruction_hold_still" = "保持静止";
+
+"amplify_ui_liveness_challenge_connecting" = "连接中...";
+"amplify_ui_liveness_challenge_verifying" = "验证中";
+"amplify_ui_liveness_challenge_cancel_a11y" = "取消检测";
+
+"amplify_ui_liveness_camera_setting_alert_title" = "更改你的相机设置";
+"amplify_ui_liveness_camera_setting_alert_message" = "请在设置中允许相机权限。";
+"amplify_ui_liveness_camera_setting_alert_update_setting_button_text" = "更新设置";
+"amplify_ui_liveness_camera_setting_alert_not_now_button_text" = "不是现在";
+"amplify_ui_liveness_close_button_a11y" = "关闭";
