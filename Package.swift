@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "AmplifyUILiveness",
+    name: "FCAmplifyUILiveness",
     defaultLocalization: "en",
     platforms: [.iOS(.v14)],
     products: [
